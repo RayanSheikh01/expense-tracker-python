@@ -1,2 +1,2 @@
 # expense-tracker-python
-Expense tracker created in Python using the Pandas and Numpy modules.
+Expense tracker created in Python using the pandas and numpy modules.
